@@ -1,1 +1,1 @@
-# The-Alien-Escape-
+You start off as a circle with a random colour. You can wonder the canvas looking for other circles, and once you do, you can try to "eat" them. If you are bigger than them, you will engulf them, but if they are bigger than you, you will lose the game. You can keep on going until somebody else eats you. Essentially there is no end to this game.
